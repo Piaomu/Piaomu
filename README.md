@@ -4,7 +4,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-wahl.kasey@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wahl.kasey@gmail.com)](mailto:wahl.kasey@gmail.com) [![GitHub Josue](https://img.shields.io/github/followers/piaomu?label=follow&style=social)](https://github.com/piaomu)
 
 
-I am a full-stack developer seeking local and remote opportunities. Experience with the .NET stack (MongoDB, Express, React JS, React Native, and Node JS).
+I am a full-stack developer seeking local and remote opportunities. Experience with the .NET stack.
 
 
 ## Languages and Tools:
