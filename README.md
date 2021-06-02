@@ -1,6 +1,6 @@
 ## Hi there, I'm [Kasey!](https://kaseywahl.io) 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-kaseywahl-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kasey-wahl-24073084//)](https://www.linkedin.com/in/josuecedeno/)
+[![Linkedin Badge](https://img.shields.io/badge/-kaseywahl-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kasey-wahl-24073084//)](https://www.linkedin.com/in/kasey-wahl/)
 [![Gmail Badge](https://img.shields.io/badge/-wahl.kasey@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wahl.kasey@gmail.com)](mailto:wahl.kasey@gmail.com) [![GitHub Josue](https://img.shields.io/github/followers/piaomu?label=follow&style=social)](https://github.com/piaomu)
 
 
