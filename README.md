@@ -8,7 +8,7 @@ So there I was: stranded on a remote island for five months with nothing but a g
 
 Seriously.
 
-In a different life, when "pandemic" was just my favorite board game, I was living my professional dream as a curriculum developer at a boarding school in Beijing. I'd always been a language lover. I imagined I'd live out my professional career writing books, teaching English, and learning the native language of wherever my travels took me. And I was doing it: teaching by day and writing/performing stand-up comedy by night. Then, while I was vacationing on a small island off the coast of Thailand during Chinese New Year 2020, my return flight was suddenly cancelled because a strange virus had suddenly broken out across the world.
+In a different life, when "pandemic" was just my favorite board game, I was living my professional dream as a curriculum developer at a boarding school in Beijing. I'd always been a language lover. I imagined I'd live out my professional career writing books, teaching English, and learning the native language of wherever my travels took me. And I was doing it: teaching by day and writing/performing stand-up comedy by night. Then, while I was vacationing on a small island off the coast of Thailand during Chinese New Year 2020, my return flight was suddenly canceled because a strange virus had suddenly broken out across the world.
 
 Gap year students panicked. Vacationers went home early (if they could). I had to get back to Beijing, somehow. Then the ferries stopped. I was trapped. But you know who wasn't trapped?
 
